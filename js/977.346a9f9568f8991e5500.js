@@ -1,1 +1,0 @@
-(self.webpackChunkinsights_rbac_frontend=self.webpackChunkinsights_rbac_frontend||[]).push([[977],{81754:()=>{},80598:()=>{},10108:()=>{}}]);
