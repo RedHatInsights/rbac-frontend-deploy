@@ -1,10 +1,10 @@
 {
     "rbac": {
         "entry": [
-            "/beta/apps/rbac/rbac.1650961168502.e4c0541a506fbf971263.js"
+            "/beta/apps/rbac/rbac.1650968379185.6e0987de18a7851377d3.js"
         ],
         "modules": [
-            "/beta/apps/rbac/js/3517.1650961168421.e4c0541a506fbf971263.js",
+            "/beta/apps/rbac/js/3517.1650968379104.6e0987de18a7851377d3.js",
             "/beta/apps/rbac/css/3517.4f0f4b061e35f2c8b0e7.css"
         ]
     }
