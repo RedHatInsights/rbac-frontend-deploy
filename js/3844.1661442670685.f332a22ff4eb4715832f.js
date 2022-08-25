@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinsights_rbac_frontend=self.webpackChunkinsights_rbac_frontend||[]).push([[3844],{53844:(n,t,e)=>{e.r(t),e.d(t,{default:()=>c});var r=e(92950),a=e.n(r),s=e(55140);const c=function(){var n=(0,s.Z)().quickStarts.Catalog;return a().createElement(n,null)}}}]);
+//# sourceMappingURL=../sourcemaps/3844.7d859fc0d0cd742c9fe914a054c8f297.js.map
