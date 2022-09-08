@@ -1,14 +1,14 @@
 {
   "app_name": "rbac",
   "node_version": ">=16.0.0",
-  "src_hash": "8b52d119f87c709bd468fa0809a0b6f7ab238398",
+  "src_hash": "824533df4dacff28a90ebfcef1be0c3b1ca58605",
   "src_tag": "",
   "src_branch": "prod-stable",
-  "patternfly_dependencies": ["@patternfly/quickstarts@2.2.2","@patternfly/react-core@4.198.19","@patternfly/react-icons@4.57.2","@patternfly/react-table@4.67.19","@patternfly/react-tokens@4.58.2"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/access-requests-frontend@1.2.11","@redhat-cloud-services/cost-management-client@1.0.104","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.13","@redhat-cloud-services/frontend-components@3.8.10","@redhat-cloud-services/rbac-client@1.0.110"],
+  "patternfly_dependencies": ["@patternfly/quickstarts@2.2.4","@patternfly/react-core@4.198.19","@patternfly/react-icons@4.86.7","@patternfly/react-table@4.67.19","@patternfly/react-tokens@4.87.7"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/access-requests-frontend@1.2.11","@redhat-cloud-services/cost-management-client@1.0.104","@redhat-cloud-services/frontend-components-notifications@3.2.10","@redhat-cloud-services/frontend-components-utilities@3.2.24","@redhat-cloud-services/frontend-components@3.8.10","@redhat-cloud-services/rbac-client@1.0.110"],
   "travis": {
     "event_type": "push",
-    "build_number": "6076",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-rbac-ui/builds/255033605"
+    "build_number": "6167",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-rbac-ui/builds/255337721"
   }
 }
