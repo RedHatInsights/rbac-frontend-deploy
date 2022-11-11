@@ -1,30 +1,11 @@
 {
     "rbac": {
         "entry": [
-            "/apps/rbac/rbac.1668162281433.5a6d8f43af5dbd548a4d.js"
+            "/apps/rbac/rbac.1668198321541.693b3123d924d2c5fa42.js"
         ],
         "modules": [
-            "/apps/rbac/css/6586.5de830382761a72535e4.css",
-            "/apps/rbac/js/8097.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/8097.5de830382761a72535e4.css",
-            "/apps/rbac/js/3631.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/3631.a91ec6af1788a9b8478b.css",
-            "/apps/rbac/js/5714.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/5714.5de830382761a72535e4.css",
-            "/apps/rbac/js/9822.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/9822.e78675cdd3ec50e11d05.css",
-            "/apps/rbac/js/5337.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/5337.91ca4a1016bb9df4db45.css",
-            "/apps/rbac/js/8348.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/js/2632.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/2632.db1b6e3d8b50a25e4dd8.css",
-            "/apps/rbac/js/2997.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/2997.91ca4a1016bb9df4db45.css",
-            "/apps/rbac/js/7247.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/css/7247.27066aeee3a788c4534b.css",
-            "/apps/rbac/css/7664.db1b6e3d8b50a25e4dd8.css",
-            "/apps/rbac/js/8090.1668162281464.5a6d8f43af5dbd548a4d.js",
-            "/apps/rbac/js/7905.1668162281464.5a6d8f43af5dbd548a4d.js"
+            "/apps/rbac/js/832.1668198321452.693b3123d924d2c5fa42.js",
+            "/apps/rbac/css/832.4f0f4b061e35f2c8b0e7.css"
         ]
     }
 }
