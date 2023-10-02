@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkinsights_rbac_frontend=self.webpackChunkinsights_rbac_frontend||[]).push([[6020],{46020:(e,a,n)=>{n.r(a),n.d(a,{default:()=>l});var t=n(92950),s=n.n(t),r=n(86896),c=n(25864),i=n(30893);const l=()=>{const e=(0,r.Z)();return s().createElement(c.Modal,{className:"rbac",variant:c.ModalVariant.medium,isOpen:!1,title:e.formatMessage(i.Z.addServiceAccount)},"null")}}}]);
-//# sourceMappingURL=../sourcemaps/6020.e19c2fc4c4645102903e15189ba24bc5.js.map
