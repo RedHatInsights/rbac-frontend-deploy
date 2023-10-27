@@ -1,27 +1,27 @@
 {
     "rbac": {
         "entry": [
-            "/beta/apps/rbac/rbac.52e5864e0e6c93462671.js"
+            "/beta/apps/rbac/rbac.506eef202ec0591996c1.js"
         ],
         "modules": [
-            "/beta/apps/rbac/js/5963.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/5963.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/5963.acb34816dc90ee181486.css",
-            "/beta/apps/rbac/js/8353.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/8353.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/8353.acb34816dc90ee181486.css",
-            "/beta/apps/rbac/js/9822.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/9822.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/9822.567023cdc9bfadf3b633.css",
-            "/beta/apps/rbac/js/5337.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/5337.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/5337.91ca4a1016bb9df4db45.css",
-            "/beta/apps/rbac/js/8348.52e5864e0e6c93462671.js",
-            "/beta/apps/rbac/js/2632.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/8348.506eef202ec0591996c1.js",
+            "/beta/apps/rbac/js/2632.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/2632.feff707b29d908b240ab.css",
-            "/beta/apps/rbac/js/2997.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/2997.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/2997.91ca4a1016bb9df4db45.css",
-            "/beta/apps/rbac/js/7247.52e5864e0e6c93462671.js",
+            "/beta/apps/rbac/js/7247.506eef202ec0591996c1.js",
             "/beta/apps/rbac/css/7247.feff707b29d908b240ab.css",
             "/beta/apps/rbac/css/7664.feff707b29d908b240ab.css",
-            "/beta/apps/rbac/js/8309.52e5864e0e6c93462671.js",
-            "/beta/apps/rbac/js/4250.52e5864e0e6c93462671.js"
+            "/beta/apps/rbac/js/8309.506eef202ec0591996c1.js",
+            "/beta/apps/rbac/js/4250.506eef202ec0591996c1.js"
         ]
     }
 }
