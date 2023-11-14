@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[7286],{64089:(a,e,c)=>{c.r(e),c.d(e,{Badge:()=>r.C});var r=c(68425)}}]);
