@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[5871],{65871:(e,t,a)=>{a.r(t),a.d(t,{default:()=>s});var c=a(28416),r=a.n(c),n=a(55140);const s=()=>{const e=(0,n.Z)(),{quickStarts:t}=e,{Catalog:a}=t;return r().createElement(a,null)}}}]);
-//# sourceMappingURL=../sourcemaps/5871.3d6a8d36617c4432d192e9db9a434449.js.map
