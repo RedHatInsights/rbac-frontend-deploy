@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[945],{5964:(e,t,a)=>{a.r(t),a.d(t,{CaretDownIcon:()=>s,CaretDownIconConfig:()=>n,default:()=>f});var c=a(40400);const n={name:"CaretDownIcon",height:512,width:320,svgPath:"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z",yOffset:0,xOffset:0},s=(0,c.I)(n),f=s}}]);
+//# sourceMappingURL=../sourcemaps/945.da6b25db5bb22fa3d69508f9ec6ec56d.js.map
