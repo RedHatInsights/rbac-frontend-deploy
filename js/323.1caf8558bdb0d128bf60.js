@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[323],{52643:(e,s,a)=>{a.d(s,{b:()=>t});var l=a(65353),c=a(28416),n=a(38296),r=a(66042);const t=e=>{var{children:s=null,className:a="",component:t="div"}=e,u=(0,l.__rest)(e,["children","className","component"]);const b=t;return c.createElement(b,Object.assign({className:(0,n.css)(r.default.bullseye,a)},u),s)};t.displayName="Bullseye"},73729:(e,s,a)=>{a.r(s),a.d(s,{Bullseye:()=>l.b});var l=a(52643)}}]);
+//# sourceMappingURL=../sourcemaps/323.1621f3f474e8e5578d78a2bd8b464938.js.map
