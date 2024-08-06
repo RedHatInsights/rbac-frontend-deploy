@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[2289],{82289:(e,s,c)=>{c.r(s),c.d(s,{default:()=>u});var a=c(44914),t=c.n(a);const u=()=>t().createElement("div",{id:"rhel-mock"},"This is just a mock insights bundle module")}}]);
+//# sourceMappingURL=../sourcemaps/2289.e06a22fad7c357926f5a5e88bb290752.js.map
