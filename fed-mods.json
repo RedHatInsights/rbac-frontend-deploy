@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/rbac/",
   "loadScripts": [
-    "rbac.f9ad96ee27ebef5df31f.js"
+    "rbac.7b5a6d3bf61bd94cc3f2.js"
   ],
-  "buildHash": "f9ad96ee27ebef5df31fd8214e9b4f64"
+  "buildHash": "7b5a6d3bf61bd94cc3f20b452cececc7"
 }
