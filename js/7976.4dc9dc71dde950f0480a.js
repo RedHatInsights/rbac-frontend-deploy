@@ -1,1 +1,0 @@
-(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[7976],{36393:(e,s,a)=>{"use strict";a.r(s),a.d(s,{Flex:()=>c.s,FlexItem:()=>r.Z});var c=a(96998),r=a(96553)},36752:()=>{}}]);
