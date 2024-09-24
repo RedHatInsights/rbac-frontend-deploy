@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[1506],{78425:(o,a,d)=>{d.r(a),d.d(a,{Modal:()=>l.u,ModalBox:()=>e.c,ModalBoxBody:()=>t.$,ModalBoxCloseButton:()=>r.I,ModalBoxFooter:()=>B.t,ModalBoxHeader:()=>M.R,ModalContent:()=>c.h,ModalVariant:()=>l.v});var l=d(80236),e=d(2914),t=d(92434),r=d(93884),M=d(80478),B=d(51898),c=d(21142)}}]);
