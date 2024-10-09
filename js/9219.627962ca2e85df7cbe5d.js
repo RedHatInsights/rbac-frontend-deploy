@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[9219],{1468:(t,u,a)=>{a.r(u),a.d(u,{Button:()=>e.zx,ButtonSize:()=>e.qE,ButtonType:()=>e.L$,ButtonVariant:()=>e.Wu});var e=a(47173)}}]);
