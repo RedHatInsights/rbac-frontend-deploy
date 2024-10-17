@@ -1,14 +1,14 @@
 {
   "app_name": "rbac",
   "node_version": ">=16.0.0",
-  "src_hash": "4fcb549b6802551a529058a2a5e876dec5b1a8a1",
+  "src_hash": "b135d65477270a2f87f434f9a630adf46a3bc63b",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/quickstarts@5.1.0","@patternfly/react-component-groups@5.4.0-prerelease.2","@patternfly/react-core@5.3.4","@patternfly/react-data-view@5.2.0","@patternfly/react-icons@5.3.2","@patternfly/react-table@5.3.4","@patternfly/react-tokens@5.3.1"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/access-requests-frontend@1.2.11","@redhat-cloud-services/cost-management-client@1.0.112","@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-utilities@4.0.16","@redhat-cloud-services/frontend-components@4.2.13","@redhat-cloud-services/host-inventory-client@1.5.0","@redhat-cloud-services/javascript-clients-shared@1.2.4","@redhat-cloud-services/rbac-client@2.2.5"],
   "travis": {
     "event_type": "push",
-    "build_number": "8041",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-rbac-ui/builds/272774740"
+    "build_number": "8046",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-rbac-ui/builds/272777982"
   }
 }
