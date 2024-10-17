@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[1040],{21040:(e,t,a)=>{a.r(t),a.d(t,{default:()=>s});var c=a(93345),r=a.n(c),n=a(20881);const s=()=>{const e=(0,n.A)(),{quickStarts:t}=e,{Catalog:a}=t;return r().createElement(a,null)}}}]);
