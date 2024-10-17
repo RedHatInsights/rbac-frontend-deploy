@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[921],{15623:(p,r,a)=>{a.r(r),a.d(r,{Chip:()=>c.A,ChipGroup:()=>e.Z});var c=a(42189),e=a(73597)}}]);
