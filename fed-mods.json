@@ -1,1 +1,1 @@
-{"name":"rbac","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/rbac/","loadScripts":["rbac.c856398b23a7fb26ad26.js"],"buildHash":"5e9a6f7b7806919e8dcd9facd11c3f03"}
+{"name":"rbac","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/rbac/","loadScripts":["rbac.0c89ffcb4a23777fedf0.js"],"buildHash":"1bce937a85845e02ac2038a7777b03b5"}
