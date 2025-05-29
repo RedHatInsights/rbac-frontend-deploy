@@ -1,1 +1,0 @@
-(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[7998],{24915:(a,e,n)=>{"use strict";n.r(e),n.d(e,{Pagination:()=>i.d,PaginationVariant:()=>i.A,ToggleTemplate:()=>r.D});var i=n(27472),r=n(29537)},92004:()=>{},23091:()=>{}}]);

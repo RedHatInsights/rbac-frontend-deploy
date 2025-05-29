@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrbac=self.webpackChunkrbac||[]).push([[1250],{26012:(e,a,c)=>{c.r(a),c.d(a,{Skeleton:()=>k.E});var k=c(71906)}}]);
